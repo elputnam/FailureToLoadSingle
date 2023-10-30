@@ -1,5 +1,6 @@
 html, body {
   height: 100%;
+  font: white;
 }
 
 canvas {
@@ -8,6 +9,7 @@ canvas {
 
 body {
   background-color: black;
+  font: white;
   margin: 0;
   display: flex;
 
